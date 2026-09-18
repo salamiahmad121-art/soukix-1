@@ -1,0 +1,47 @@
+{
+  "bot": {
+    "token": "MTU0OTg1NjQ0MDA2MjA1NDQxMg.GvEKYQ.bg6bkXcfI62VV0XGE-6WyA9vRB6HQuyMGwbmTw",
+    "category_ticket_id": "1549882854060720278",
+    "callup_role_id": "1550134080295796796",
+    "ticket_log_channel_id": "1550256461605507193",
+    "log_channel_id": "1549879038674345984",
+    "role_claim_channel_id": "1550223317175115786"
+  },
+  "images": {
+    "ticket_banner": "https://cdn.discordapp.com/attachments/1549920350358474772/1549920392775467018/Open_Ticket.png",
+    "ticket_inner": "https://cdn.discordapp.com/attachments/1549920350358474772/1550224682756743328/tick.png",
+    "suggestion_banner": "https://cdn.discordapp.com/attachments/1549920350358474772/1550230484267827260/sugg.png",
+    "announcement_banner": "https://cdn.discordapp.com/attachments/1549920350358474772/1549924926247542867/announcement.png",
+    "rules_banner": "https://cdn.discordapp.com/attachments/1549920350358474772/1549924967733530774/Rules.png",
+    "role_request_banner": "https://cdn.discordapp.com/attachments/1549920350358474772/1549924959520817182/request_role.png",
+    "callup_banner": "https://cdn.discordapp.com/attachments/1549857920034799638/1550258810235396216/call_create.png"
+  },
+  "colors": {
+    "primary": "#093a5b",
+    "danger": "#093a5b",
+    "success": "#093a5b",
+    "warning": "#f1c40f"
+  },
+  "texts": {
+    "ticket_title": "EMS Family Ticket",
+    "ticket_desc": "مرحباً بك في نظام التذاكر\n\nترحب بك في نظام تكتات **EMS Family**\n\nافتح تذكرة لأي طلب، استفسار، أو شكوى\n\nاختر نوع التذكرة من القائمة بالأسفل للبدء",
+    "ticket_footer": "Powered By EMS Family",
+    "suggestion_title": "نظام الاقتراحات | Suggestions System",
+    "suggestion_desc": "نستقبل اقتراحاتكم من خلال هذا الروم\nأو أفكار تبون نسويها",
+    "rules_title": "القوانين @everyone",
+    "callup_title": "لوحة استدعاء الأعضاء",
+    "callup_desc": "أدخل أيدي العضو لاستدعائه للتحقيق"
+  },
+  "ticket_categories": {
+    "support": {
+      "label": "استفسار ودعم فني",
+      "emoji": "🩺",
+      "description": "لأي استفسارات أو مشاكل عامة"
+    },
+    "report": {
+      "label": "تقديم شكوى",
+      "emoji": "🩺",
+      "description": "للإبلاغ عن مخالفة أو لاعب"
+    }
+  }
+}
